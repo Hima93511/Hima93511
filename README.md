@@ -13,7 +13,7 @@ Passionate about building clean, efficient solutions both on the front-end and b
 - 👯 Open to collaborating on beginner-friendly or practice-driven projects
 - ℹ Connect with me:
   - GitHub: [Hima93511](https://github.com/Hima93511)
-  - Email: _your-email@example.com_ (optional)
+  - Email: garghimanshu045@gmail.com
 
 ---
 
