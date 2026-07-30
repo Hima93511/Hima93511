@@ -1,56 +1,155 @@
-# Hi there, I'm Himanshu Garg (Hima93511)  ![Welcome](https://img.shields.io/badge/Welcome-Hi✋-blue)
+<div align="center">
 
-###  Aspiring Full Stack Developer
+# 👋 Hi, I'm Himanshu Garg
 
-Passionate about building clean, efficient solutions both on the front-end and back-end. Exploring modern web development stacks, learning every day, and always up for a new challenge.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Designer;React+%7C+Node.js+%7C+Laravel;Building+Products+That+People+Love" />
 
----
+<p>
+<img src="https://komarev.com/ghpvc/?username=Hima93511&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Hima93511?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/Hima93511?style=for-the-badge" />
+</p>
 
-##  About Me
-
-- 🔭 Currently exploring full stack projects with **Python**, **HTML**, **CSS**, and **JavaScript**
-- 🌱 Actively enhancing skills in **React**, **Node.js**, or any framework that sharpens my craft
-- 👯 Open to collaborating on beginner-friendly or practice-driven projects
-- ℹ Connect with me:
-  - GitHub: [Hima93511](https://github.com/Hima93511)
-  - Email: garghimanshu045@gmail.com
+</div>
 
 ---
 
-##  My Projects
+# 🚀 About Me
 
-Here are some of my repositories that reflect my journey and growth:
+💻 Full Stack Developer passionate about building scalable web applications.
 
-| Repository | Description |
-|:---|:---|
-| `-python-sample` | A basic Python sample project — experiments and foundational scripts |
-| `new-python-basic-practice-` | Python back to basics — practicing core concepts |
-| `Some-Html-Work` | HTML + JavaScript experiments and UI snippets |
-| `Form-in-html` | A basic HTML form capturing user input |
-| `Css-combination-selectors` | CSS practice — advanced selectors and styling techniques |
+🎨 UI/UX Designer who loves creating clean and modern user experiences.
 
-*(This table auto-updates as I add more projects.)*
+🌱 Currently learning advanced system design, scalable backend development, and AI-powered applications.
+
+📍 Based in Gurugram, India
+
+💼 Open to Full-Time, Freelance & Remote Opportunities.
 
 ---
 
-##  Skills & Learning Path
+# 🛠 Tech Stack
 
-| Front-End | Back-End | Others |
-|:---|:---|:---|
-| HTML, CSS, JavaScript | Python | Git |
-| Responsive Design | (Exploring Node.js, APIs) | Problem-solving |
-| UI Basics | (Planning to learn databases, frameworks) | Continuous learning |
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
+</p>
 
 ---
 
-##  What I'm Up To
+# 🌟 Featured Projects
 
-- Building foundational front-end layouts and learning responsive design
-- Working through Python projects to solidify logic and syntax
-- Dreaming of full stack web apps combining front-end and server logic
+### 🛒 Bundle Builder
+
+A responsive React application for building customizable product bundles using reusable components and JSON data.
 
 ---
 
-##  Let’s Grow Together!
+### 🏥 Doctor Appointment Booking Platform
 
-Whether you’re a fellow learner or just starting out—let’s collaborate, share knowledge, or build something fun together! Feel free to reach out. Happy coding! 🚀
+Complete appointment management system with Admin Panel and Mobile Application.
+
+---
+
+### 🥗 NutriGuide AI
+
+AI-powered nutrition recommendation platform.
+
+---
+
+### 🌱 Green India
+
+Government-funded recycling platform enabling users to sell recyclable waste online.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hima93511&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hima93511&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Hima93511&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hima93511&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hima93511&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 💼 Looking For
+
+✅ Full Stack Development
+
+✅ React Development
+
+✅ UI/UX Design
+
+✅ Laravel Development
+
+✅ Freelance Projects
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** [garghimanshu045@gmail.com](mailto:garghimanshu045@gmail.com)
+
+💻 **GitHub:** https://github.com/Hima93511
+
+💼 **LinkedIn:** *(Add your LinkedIn profile here)*
+
+---
+
+<div align="center">
+
+## 💭 Favorite Quote
+
+### *"Code with purpose. Design with empathy. Build for impact."*
+
+⭐ If you like my work, consider giving a star to my repositories!
+
+</div>
